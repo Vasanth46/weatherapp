@@ -4,7 +4,9 @@
 **The Weather App** is a web application that allows users to check the current temperature, humidity, and wind speed of different cities. 
 It utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing user interface. 
 The app fetches weather data from the OpenWeather API to provide real-time weather information for the specified cities.
+
  **Website** [Weather App](https://jolly-semifreddo-012317.netlify.app/)
+ 
 **Features**
 
 View current temperature, humidity, and wind speed of selected cities.
